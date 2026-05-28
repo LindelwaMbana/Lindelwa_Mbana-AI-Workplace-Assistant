@@ -1,6 +1,6 @@
 # AI Workplace — Productivity Assistant
 
-> **Live App:** [https://rapid-work-pal.lovable.app](https://rapid-work-pal.lovable.app)  
+> **Live App:** [https://lindelwa-mbana-ai-workplace-assistant.lovable.app](https://lindelwa-mbana-ai-workplace-assistant.lovable.app)  
 > AI-generated content may require human review.
 
 ---
